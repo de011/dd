@@ -1,0 +1,23 @@
+
+Git --version
+git config --globle user.name ""
+git config --globle user.name ""
+git config --globle user.email ""
+git config --globle user.email ""
+git config -- glble --list
+
+
+
+create a demo project / folder & add to git we can create a project folder the project
+
+
+go to cmd or terminal or gitbash
+change directory to the folder and run the following commands
+
+1. git init
+2. git status
+3. git file  -> file name
+4. git add. -> for  multiple file
+5. git commit -m "some message"
+6. git push -u "put url" master
+7. check files on gitlab  
