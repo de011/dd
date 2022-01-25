@@ -21,3 +21,9 @@ change directory to the folder and run the following commands
 5. git commit -m "some message"
 6. git push -u "put url" master
 7. check files on gitlab  
+
+
+git push --set-upstream https://github.com/de011/dd.git master  ||
+
+
+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
